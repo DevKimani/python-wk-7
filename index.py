@@ -221,5 +221,3 @@ def check_important_headers(response):
 if __name__ == "__main__":
     main()
     
-    # Uncomment to test challenge features
-    # handle_multiple_urls()
